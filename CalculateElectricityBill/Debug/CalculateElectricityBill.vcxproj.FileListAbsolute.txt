@@ -1,0 +1,3 @@
+C:\Users\Aarthy\Desktop\GUI\CalculateElectricityBill\CalculateElectricityBill\Debug\CalculateElectricityBill.vcxprojAssemblyReference.cache
+C:\Users\Aarthy\Desktop\GUI\CalculateElectricityBill\CalculateElectricityBill\Debug\CalculateElectricityBill.MyForm.resources
+C:\Users\Aarthy\Desktop\GUI\CalculateElectricityBill\CalculateElectricityBill\Debug\CalculateElectricityBill.vcxproj.GenerateResource.cache
